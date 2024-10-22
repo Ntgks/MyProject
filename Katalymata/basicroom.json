@@ -1,0 +1,10 @@
+{
+    	"roomName": "Basic Room",
+    	"noOfPersons": 1,
+    	"area": "Area1",
+    	"stars": 1,
+    	"noOfReviews": 5,
+	"price": 100,
+    	"roomImage": "C:\Users\nickr\IdeaProjects\KatanemTest\src\ergasia\Katalymata\basicroom.jpg"
+	
+}
