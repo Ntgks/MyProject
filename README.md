@@ -1,0 +1,1 @@
+This project implements a multithreaded system where a Server (Master) handles connections from multiple Clients (Console Applications). The server can also handle multiple Workers to perform calculations and manage data through a map-reduce structure. It is designed to manage room bookings, with multiple clients interacting with the server to add and retrieve room data.
